@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [FREE CRM Application Test Automation Test Suite]">
+  <listeners>
+    <listener class-name="com.crm.ExtentReportListener.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="Free CRM App Test Cases(failed)">
+    <classes>
+      <class name="com.crm.testsc.HomePageTest">
+        <methods>
+          <include name="cloose"/>
+          <include name="tassk"/>
+          <include name="deels"/>
+          <include name="initmethod"/>
+        </methods>
+      </class> <!-- com.crm.testsc.HomePageTest -->
+      <class name="com.crm.testsc.ContactTest">
+        <methods>
+          <include name="verifycontact"/>
+          <include name="cloose"/>
+          <include name="initmethod"/>
+        </methods>
+      </class> <!-- com.crm.testsc.ContactTest -->
+    </classes>
+  </test> <!-- Free CRM App Test Cases(failed) -->
+</suite> <!-- Failed suite [FREE CRM Application Test Automation Test Suite] -->
