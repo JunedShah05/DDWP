@@ -5,9 +5,10 @@
     <classes>
       <class name="com.crm.testsc.ContactTest">
         <methods>
-          <include name="NewContact"/>
+          <include name="verifycontact"/>
           <include name="cloose"/>
           <include name="initmethod"/>
+          <include name="clickcheakbox"/>
         </methods>
       </class> <!-- com.crm.testsc.ContactTest -->
     </classes>

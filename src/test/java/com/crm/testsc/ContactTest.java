@@ -53,7 +53,7 @@ public class ContactTest extends Base {
     	dum="True";
     	Assert.assertEquals(act, dum);*/
     	//ut.switchto();
-    	Assert.assertFalse(ct.contactlbl());
+    	Assert.assertTrue(ct.contactlbl());
     }
     @Test(priority=2,enabled=true)
     public void clickcheakbox()

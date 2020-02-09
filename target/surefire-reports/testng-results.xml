@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="11" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="197667" started-at="2019-03-30T05:48:17Z" finished-at="2019-03-30T05:51:35Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="197667" started-at="2019-03-30T05:48:17Z" finished-at="2019-03-30T05:51:35Z">
+      <class name="com.crm.testsc.ContactTest">
+        <test-method status="PASS" signature="initmethod()[pri:0, instance:com.crm.testsc.ContactTest@246ae04d]" name="initmethod" is-config="true" duration-ms="29897" started-at="2019-03-30T11:18:17Z" finished-at="2019-03-30T11:18:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initmethod -->
+        <test-method status="PASS" signature="verifycontact()[pri:1, instance:com.crm.testsc.ContactTest@246ae04d]" name="verifycontact" duration-ms="52" started-at="2019-03-30T11:18:47Z" finished-at="2019-03-30T11:18:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycontact -->
+        <test-method status="PASS" signature="cloose()[pri:0, instance:com.crm.testsc.ContactTest@246ae04d]" name="cloose" is-config="true" duration-ms="655" started-at="2019-03-30T11:18:47Z" finished-at="2019-03-30T11:18:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cloose -->
+        <test-method status="PASS" signature="initmethod()[pri:0, instance:com.crm.testsc.ContactTest@246ae04d]" name="initmethod" is-config="true" duration-ms="28696" started-at="2019-03-30T11:19:08Z" finished-at="2019-03-30T11:19:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initmethod -->
+        <test-method status="PASS" signature="clickcheakbox()[pri:2, instance:com.crm.testsc.ContactTest@246ae04d]" name="clickcheakbox" duration-ms="125" started-at="2019-03-30T11:19:36Z" finished-at="2019-03-30T11:19:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickcheakbox -->
+        <test-method status="PASS" signature="cloose()[pri:0, instance:com.crm.testsc.ContactTest@246ae04d]" name="cloose" is-config="true" duration-ms="918" started-at="2019-03-30T11:19:36Z" finished-at="2019-03-30T11:19:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cloose -->
+      </class> <!-- com.crm.testsc.ContactTest -->
+      <class name="com.crm.testsc.HomePageTest">
+        <test-method status="PASS" signature="initmethod()[pri:0, instance:com.crm.testsc.HomePageTest@62043840]" name="initmethod" is-config="true" duration-ms="19373" started-at="2019-03-30T11:18:48Z" finished-at="2019-03-30T11:19:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initmethod -->
+        <test-method status="PASS" signature="gettxt()[pri:1, instance:com.crm.testsc.HomePageTest@62043840]" name="gettxt" duration-ms="18" started-at="2019-03-30T11:19:07Z" finished-at="2019-03-30T11:19:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettxt -->
+        <test-method status="PASS" signature="cloose()[pri:0, instance:com.crm.testsc.HomePageTest@62043840]" name="cloose" is-config="true" duration-ms="219" started-at="2019-03-30T11:19:07Z" finished-at="2019-03-30T11:19:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cloose -->
+        <test-method status="PASS" signature="initmethod()[pri:0, instance:com.crm.testsc.HomePageTest@62043840]" name="initmethod" is-config="true" duration-ms="34950" started-at="2019-03-30T11:19:37Z" finished-at="2019-03-30T11:20:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initmethod -->
+        <test-method status="PASS" signature="getusernam()[pri:2, instance:com.crm.testsc.HomePageTest@62043840]" name="getusernam" duration-ms="96" started-at="2019-03-30T11:20:12Z" finished-at="2019-03-30T11:20:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getusernam -->
+        <test-method status="PASS" signature="cloose()[pri:0, instance:com.crm.testsc.HomePageTest@62043840]" name="cloose" is-config="true" duration-ms="232" started-at="2019-03-30T11:20:12Z" finished-at="2019-03-30T11:20:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cloose -->
+        <test-method status="PASS" signature="initmethod()[pri:0, instance:com.crm.testsc.HomePageTest@62043840]" name="initmethod" is-config="true" duration-ms="18450" started-at="2019-03-30T11:20:13Z" finished-at="2019-03-30T11:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initmethod -->
+        <test-method status="PASS" signature="clickoncontact()[pri:3, instance:com.crm.testsc.HomePageTest@62043840]" name="clickoncontact" duration-ms="1801" started-at="2019-03-30T11:20:31Z" finished-at="2019-03-30T11:20:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickoncontact -->
+        <test-method status="PASS" signature="cloose()[pri:0, instance:com.crm.testsc.HomePageTest@62043840]" name="cloose" is-config="true" duration-ms="251" started-at="2019-03-30T11:20:33Z" finished-at="2019-03-30T11:20:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cloose -->
+        <test-method status="PASS" signature="initmethod()[pri:0, instance:com.crm.testsc.HomePageTest@62043840]" name="initmethod" is-config="true" duration-ms="17802" started-at="2019-03-30T11:20:52Z" finished-at="2019-03-30T11:21:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initmethod -->
+        <test-method status="PASS" signature="deels()[pri:4, instance:com.crm.testsc.HomePageTest@62043840]" name="deels" duration-ms="1687" started-at="2019-03-30T11:21:10Z" finished-at="2019-03-30T11:21:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deels -->
+        <test-method status="PASS" signature="cloose()[pri:0, instance:com.crm.testsc.HomePageTest@62043840]" name="cloose" is-config="true" duration-ms="274" started-at="2019-03-30T11:21:12Z" finished-at="2019-03-30T11:21:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cloose -->
+        <test-method status="PASS" signature="initmethod()[pri:0, instance:com.crm.testsc.HomePageTest@62043840]" name="initmethod" is-config="true" duration-ms="20081" started-at="2019-03-30T11:21:12Z" finished-at="2019-03-30T11:21:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initmethod -->
+        <test-method status="PASS" signature="tassk()[pri:5, instance:com.crm.testsc.HomePageTest@62043840]" name="tassk" duration-ms="2558" started-at="2019-03-30T11:21:32Z" finished-at="2019-03-30T11:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tassk -->
+        <test-method status="PASS" signature="cloose()[pri:0, instance:com.crm.testsc.HomePageTest@62043840]" name="cloose" is-config="true" duration-ms="205" started-at="2019-03-30T11:21:35Z" finished-at="2019-03-30T11:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cloose -->
+      </class> <!-- com.crm.testsc.HomePageTest -->
+      <class name="com.crm.testsc.LoginTest">
+        <test-method status="PASS" signature="initmethod()[pri:0, instance:com.crm.testsc.LoginTest@5315b42e]" name="initmethod" is-config="true" duration-ms="12414" started-at="2019-03-30T11:20:33Z" finished-at="2019-03-30T11:20:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initmethod -->
+        <test-method status="PASS" signature="testSignin()[pri:3, instance:com.crm.testsc.LoginTest@5315b42e]" name="testSignin" duration-ms="6069" started-at="2019-03-30T11:20:46Z" finished-at="2019-03-30T11:20:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignin -->
+        <test-method status="PASS" signature="cloese()[pri:0, instance:com.crm.testsc.LoginTest@5315b42e]" name="cloese" is-config="true" duration-ms="795" started-at="2019-03-30T11:20:52Z" finished-at="2019-03-30T11:20:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cloese -->
+      </class> <!-- com.crm.testsc.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

@@ -61,5 +61,4 @@ public class Base {
 		driver.manage().timeouts().pageLoadTimeout(Util.LoadTime,TimeUnit.SECONDS);
 		
 	}
-
 	}
